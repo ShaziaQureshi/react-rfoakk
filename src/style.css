@@ -2,6 +2,7 @@ h1, p {
   font-family: Lato;
 }
 body{
+  margin: 0;
   background-image: url("https://www.mundojs.com.br/wp-content/uploads/2019/08/react1-1232x693.jpg");
   background-size: auto;
   color: white;
